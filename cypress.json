@@ -1,0 +1,16 @@
+{
+   
+    "watchforFileChanges":false,
+    
+    "defaultcommandTimeout":5000,
+    "video":true,
+    "pageLoadTimeout":60000,
+    "env":{
+        "username":"tomsmith" ,
+        "password":"SuperSecretPassword!"
+    },
+    "retries":{
+        "runMode":2,
+        "openMode":2
+    }
+}
